@@ -12,4 +12,4 @@
 
 ## Redistribution:
 
-![image](https://github.com/aiko929/lol_new_elo_dist/assets/26790700/c06e2579-3eca-4fe0-af69-2c17dcf2eb97)
+![image](https://github.com/aiko929/lol_new_elo_dist/assets/26790700/2f602be7-ef66-4fb4-bd92-20ff91cff0a1)
